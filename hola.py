@@ -4,4 +4,5 @@ lista = {
   3 : "Kheynner",
 }
 
-def inicio()
+def inicio():
+  print("Bienvenido a tu agencia de viaje favorita, donde los precios se adaptan a tus necesidades")
